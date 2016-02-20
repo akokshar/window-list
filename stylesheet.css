@@ -1,0 +1,50 @@
+.bottom-panel {
+  /* .window-button-icon height +
+     .window-button vertical padding +
+     .window-button > StWidget vertical padding) */
+  min-height: 2.25em;
+}
+
+.window-list {
+  spacing: 4px;
+  font-family: Open Sans, Cantarell, Sans-Serif;
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+.window-button-box {
+  spacing: 8px;
+}
+
+.window-button > StWidget {
+  -st-natural-width: 18.75em;
+  max-width: 32em;
+  min-width: 13.75em;
+}
+
+/*
+.window-button:hover > StWidget {
+    color: red;
+    border-color: rgba(0, 0, 0, 0.7);
+}
+*/
+
+.window-button-icon {
+  margin: 1px, 3px, 1px, 3px;
+  width: 24px;
+  height: 24px;
+}
+
+
+.window-list-workspace-indicator {
+  padding: 2px;
+}
+
+.window-list-workspace-indicator > StWidget {
+  background-color: rgba(200, 200, 200, .0);
+/*  border: 1px solid #cccccc;**/
+}
+
+.notification {
+  font-weight: normal;
+}
