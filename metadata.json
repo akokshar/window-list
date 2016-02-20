@@ -1,7 +1,7 @@
 {
 "extension-id": "window-list-themed",
 "uuid": "window-list-gnome-shell-extensions.akokshar.github.com",
-"settings-schema": "org.gnome.shell.extensions.window-list",
+"settings-schema": "org.gnome.shell.extensions.window-list-themed",
 "gettext-domain": "gnome-shell-extensions",
 "name": "Bottom panel",
 "description": "Display a window list at the bottom of the screen",
