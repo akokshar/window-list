@@ -1,5 +1,6 @@
 #Window-list extention tweaked to match gnome shell theme
 
+dnf install gnome-shell-extension-window-list.noarch
 
 cd ~/.local/share/gnome-shell/extensions
 
