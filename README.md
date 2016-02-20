@@ -7,4 +7,4 @@ git clone https://github.com/akokshar/window-list-gnome-shell-extensions.akoksha
 
 Alt+F2, restart
 
-gnome-tweak-tool to enabele
+gnome-tweak-tool to enable
