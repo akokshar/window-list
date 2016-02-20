@@ -1,5 +1,5 @@
 # window-list-gnome-shell-extensions.akokshar.github.com
-gnome shell extention. matching shell theme
+Window-list extention tweaked to match gnome shell theme
 
 
 cd ~/.local/share/gnome-shell/extensions
