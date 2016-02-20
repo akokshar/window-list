@@ -1,5 +1,5 @@
 {
-"extension-id": "window-list",
+"extension-id": "window-list-themed",
 "uuid": "window-list@gnome-shell-extensions.akokshar.github.com",
 "settings-schema": "org.gnome.shell.extensions.window-list",
 "gettext-domain": "gnome-shell-extensions",
