@@ -2,24 +2,25 @@
   /* .window-button-icon height +
      .window-button vertical padding +
      .window-button > StWidget vertical padding) */
-  min-height: 2.25em;
+  min-height: 2.15em;
 }
 
 .window-list {
-  spacing: 4px;
-  font-family: Open Sans, Cantarell, Sans-Serif;
+  /* padding: 1px, 0px, 0px, 0px; */
+  /* font-family: Open Sans, Cantarell, Sans-Serif; */
   font-size: 10pt;
   font-weight: bold;
 }
 
 .window-button-box {
-  spacing: 8px;
+  /* spacing: 8px; */
 }
 
 .window-button > StWidget {
   -st-natural-width: 18.75em;
   max-width: 32em;
   min-width: 13.75em;
+/*  font-family: Open Sans, Cantarell, Sans-Serif;*/
 }
 
 /*
@@ -41,7 +42,7 @@
 }
 
 .window-list-workspace-indicator > StWidget {
-  background-color: rgba(200, 200, 200, .0);
+/*  background-color: rgba(200, 200, 200, .0); */
 /*  border: 1px solid #cccccc;**/
 }
 
