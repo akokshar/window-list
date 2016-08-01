@@ -19,7 +19,7 @@
 .window-button > StWidget {
   -st-natural-width: 18.75em;
   max-width: 32em;
-  min-width: 13.75em;
+/*  min-width: 13.75em;*/
 /*  font-family: Open Sans, Cantarell, Sans-Serif;*/
 }
 
